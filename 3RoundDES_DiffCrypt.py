@@ -1,6 +1,6 @@
 ###########################################################
-#	    Differential Cryptanalysis Attack on 3 round DES	  #
-#	              Yogitha Mahadasu                          #
+#	Differential Cryptanalysis Attack on 3 round DES  #
+#	        Yogitha Mahadasu                          #
 ###########################################################
 
 import itertools
